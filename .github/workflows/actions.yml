@@ -1,7 +1,6 @@
 name: olaris
 on:
   repository_dispatch:
-    types: ServerStart
   workflow_dispatch:
     
 jobs:
